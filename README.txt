@@ -12,14 +12,14 @@ Project folder structure:
 
 PL_BLOG_PROJECT/
 │
-├── PL_BLOG/                # Final blog post in PDF format
+├── PL_BLOG.pdf                # Final blog post in PDF format
 ├── CSV_FILES/              # Raw CSV files
 ├── NOTEBOOK/               # Python notebook for scraping, cleaning and analysis - also includes PDF format
 ├── OUTPUTS/                # Saved plots and visual outputs
-├── README.md               # Project overview and setup instructions (this doc)
+├── README.txt              # Project overview and setup instructions (this doc)
 ├── Requirments.txt         # Python dependencies for easy replication
-├── AI_DECLARATION/         # Declaring the use of AI
-└── BLOG_URL.txt/           # How to find the blog online, in HackerMD
+├── AI_DECLARATION.pdf      # Declaring the use of AI
+└── BLOG_URL.txt            # How to find the blog online, in HackerMD
 
 
 ## How to Run:
